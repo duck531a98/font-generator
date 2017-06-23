@@ -1,0 +1,11 @@
+C:\Users\duck\AppData\Local\Temporary Projects\FontConverter\bin\Debug\FontConverter.exe.config
+E:\visual studio 2013\FontConverter\FontConverter\bin\Debug\FontConverter.exe.config
+E:\visual studio 2013\FontConverter\FontConverter\bin\Debug\FontConverter.exe
+E:\visual studio 2013\FontConverter\FontConverter\bin\Debug\FontConverter.pdb
+E:\visual studio 2013\FontConverter\FontConverter\bin\Debug\FontConverter.xml
+E:\visual studio 2013\FontConverter\FontConverter\obj\Debug\FontConverter.Form1.resources
+E:\visual studio 2013\FontConverter\FontConverter\obj\Debug\FontConverter.Resources.resources
+E:\visual studio 2013\FontConverter\FontConverter\obj\Debug\FontConverter.vbproj.GenerateResource.Cache
+E:\visual studio 2013\FontConverter\FontConverter\obj\Debug\FontConverter.exe
+E:\visual studio 2013\FontConverter\FontConverter\obj\Debug\FontConverter.xml
+E:\visual studio 2013\FontConverter\FontConverter\obj\Debug\FontConverter.pdb
