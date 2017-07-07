@@ -52,7 +52,7 @@ Public Class Form1
                 Dim p_color As Color
                 temp = 0
                 For py = 0 To pixels_in_height_need    'c_height - 1 
-                    If py < (c_height - 1) Then
+                    If py < c_height Then
                         p_color = pic.GetPixel(px, py)
                     End If
 

@@ -9,3 +9,4 @@ E:\visual studio 2013\FontConverter\FontConverter\obj\Debug\FontConverter.vbproj
 E:\visual studio 2013\FontConverter\FontConverter\obj\Debug\FontConverter.exe
 E:\visual studio 2013\FontConverter\FontConverter\obj\Debug\FontConverter.xml
 E:\visual studio 2013\FontConverter\FontConverter\obj\Debug\FontConverter.pdb
+E:\visual studio 2013\FontConverter\FontConverter\obj\Debug\FontConverter.vbprojResolveAssemblyReference.cache
